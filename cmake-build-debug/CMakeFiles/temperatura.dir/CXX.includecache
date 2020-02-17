@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/rjfm/CLionProjects/temperatura/Temperature.cpp
+Temperature.h
+/Users/rjfm/CLionProjects/temperatura/Temperature.h
+
+/Users/rjfm/CLionProjects/temperatura/Temperature.h
+
